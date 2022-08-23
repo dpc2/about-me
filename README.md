@@ -9,8 +9,6 @@ Electronics are amazing, and I'm frequently in awe of the progress we've made si
   <img width="300" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Andreas_Cunaeus_discovering_the_Leyden_jar.png/1200px-Andreas_Cunaeus_discovering_the_Leyden_jar.png">
 </p>
 
-<p align="center">
-  <img width="300" height="200" src="https://scontent.fapa1-2.fna.fbcdn.net/v/t39.30808-6/283117792_10222234396742627_7552924861809478463_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_ohc=woew43bfeEIAX-kE0QF&_nc_ht=scontent.fapa1-2.fna&oh=00_AT9oWkbnMozPLIt9pDQH7z3GZmLBgX5Bf6bO8uD7S2i30A&oe=62938375">
-</p>
+[Breadboard](/static/breadboardPic.jpg)
 
 But I think hardware is even more fun when you're writing code to interact with it, so here I am! Analog electronics are great for communicating with the outside world, but digital electronics are arguably even more important, and you don't communicate with them without knowing a programming language or two.
