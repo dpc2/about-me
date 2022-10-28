@@ -6,7 +6,7 @@ This is where I'll be storing some of the code I've written, either for work or 
 Electronics are amazing, and I'm frequently in awe of the progress we've made since the days of Leyden jars, electrostatic generators, and spark-gap transmitters.
 
 <p align="center">
-  <img width="300" height="200" src="/static/1200px-Andreas_Cunaeus_discovering_the_Leyden_jar.png">
+  <img width="300" height="200" src="/static/1200px-Andreas_Cunaeus.jpg">
 </p>
 
 <p align="center">
