@@ -21,8 +21,9 @@ When it comes to software, I've got pretty varied interests. I don't think I see
 	<li>Digital Signal Processing</li>
 	<li>Raspberry Pis</li>
 	<li>SW/HW Arduino projects</li>
-  <li>Software Defined Radio</li>
-  <li>Computer engineering history</li>
+	<li>FPGAs</li>
+	<li>Software Defined Radio</li>
+	<li>Computer engineering history</li>
 	<li>Synthesizer design</li>
-  <li>Computer generated music</li>
+	<li>Computer generated music</li>
 </ul>
