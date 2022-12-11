@@ -23,7 +23,7 @@ When it comes to software, I've got pretty varied interests. I don't think I see
 	<li>Arduino Projects</li>
 	<li>Espressif ESP32 modules</li>
 	<li>Flask applications</li>
-	<li>FPGAs</li>
+	<li>Field Programmable Gate Arrays</li>
 	<li>Software Defined Radio</li>
 	<li>Computer engineering history</li>
 	<li>Synthesizer design</li>
