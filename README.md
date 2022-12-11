@@ -14,13 +14,15 @@ Electronics are amazing, and I'm frequently in awe of the progress we've made si
   <img width="300" height="200" src="/static/breadboardPic.jpg">
 </p>
 <br>
-When it comes to software, I've got pretty varied interests. I don't think I see myself ever being a web developer, but recently I've had fun working with Flask to put together a few useful web pages in and outisde of work. Someday I'll get a personal AWS-hosted resume site up too, but I'm more interested in working with software that communicates with the outside work, like on embedded devices. Most of my coding experience is with Python 3, but I've also used HTML, CSS, Matlab, C, and Verilog.
+When it comes to software, I've got pretty varied interests. I don't think I see myself ever being a web developer, but recently I've had fun working with Flask to put together a few useful web pages in and outisde of work. Someday I'll get a personal AWS-hosted resume site up too, but I'm more interested in working with software that communicates with the outside work, like on embedded devices. Most of my coding experience is with Python 3, but I've also used HTML, CSS, Matlab, C, and some Verilog.
 <br>
 <h3>Other nerdy interests:</h3>
 <ul>
 	<li>Digital Signal Processing</li>
 	<li>Raspberry Pis</li>
-	<li>SW/HW Arduino projects</li>
+	<li>Arduino Projects</li>
+	<li>Espressif ESP32 modules</li>
+	<li>Flask applications</li>
 	<li>FPGAs</li>
 	<li>Software Defined Radio</li>
 	<li>Computer engineering history</li>
