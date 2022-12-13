@@ -29,3 +29,5 @@ When it comes to software, I've got pretty varied interests. I don't think I see
 	<li>Synthesizer design</li>
 	<li>Computer generated music</li>
 </ul>
+
+<a rel="me" href="https://social.linux.pizza/@dpc2">Mastodon</a>
