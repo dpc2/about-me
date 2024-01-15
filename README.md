@@ -1,9 +1,15 @@
 # about-me
 ### Hello! Welcome to my GitHub.
 
-This is where I'll be storing some of the code I've written, either for work or pleasure. I've got a background in hardware, but I'm currently working as a software test engineer in Denver, CO. I'm hoping that with enough professional experience and personal projects under my belt, I'll learn to be well-versed in both realms and be able to contribute to the entire product development process. Oh, and contributing to the open source community would be pretty cool too! But one step at a time.
+This is where I'll be storing some of the code I've written, either for work or pleasure.
+I've got a background in hardware, but I'm currently working as a software test engineer in St Louis, MO.
+I'm hoping that with enough professional experience and personal projects under my belt, I'll learn to be well-versed in both realms and be able to contribute to the entire product development process.
+Oh, and contributing to the open source community would be pretty cool too! But one step at a time.
 
-Electronics are amazing, and I'm frequently in awe of the progress we've made since the days of Leyden jars, electrostatic generators, and spark-gap transmitters. Analog electronics are great for communicating with the outside world, and there's a lot circuit design fun to be had with just a few basic components. Digital electronics are arguably even more important, a totally different beast! However, I think hardware is even more fun when you're writing code to interact with it, so here I am.
+Electronics are amazing, and I'm frequently in awe of the progress we've made since the days of Leyden jars, electrostatic generators, and spark-gap transmitters.
+Analog electronics are great for communicating with the outside world, and there's a lot circuit design fun to be had with just a few basic components.
+Digital electronics are arguably even more important, a totally different beast!
+However, I think hardware is even more fun when you're writing code to interact with it, so here I am.
 
 <br>
 <p align="center">
